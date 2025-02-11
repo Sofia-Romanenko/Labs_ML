@@ -26,7 +26,7 @@ Refer to ‘Random_Forrest.ipynb’ and ‘Decision_Trees.ipynb’ notebooks for
 3. Find Top 10 most important (for example, in terms of TF-IDF metric) words from each chapter in the text (not "Alice"); how would you name each chapter according to the identified tokens?
 4. Find the Top 10 most used verbs in sentences with Alice. What does Alice do most often?
 
-# Lab 3 — Algorithms implementation
+# Lab 3 — Backpropagation
 
 1.	Apply the logistic regression method using the functions in the notebook «Logistic Regression as a Neural Network – BP alg.ipynb” to predict the biological response of a molecule 
 
