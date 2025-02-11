@@ -5,5 +5,5 @@ ITMO_Machine Learning
 
 - Lab 1 — Supervised learning algorithms
 - Lab 2 — NLP
-- Lab 3 — Optimization algorithms implementation
+- Lab 3 — Logistic Regression as a Neural Network – BP 
 - Lab 4 — CNN & Transfer Learning
